@@ -6,8 +6,9 @@
 - Allure report, extent report can be generated.
 - Screenshot listener is cretaed to take screentshot if test case is failed. In framework target > surefire-reports > failure_screenshots
 - Another taking screenshot is put in Allure listener. Project > screenthots
-- All log files are stored in logs > application.properties.
-- This framework is compatible with parallel execution and just configure in runner.xml
+- All log files are stored in logs folder > application.properties.
+- This framework is compatible with parallel execution and just configure in testng_runner.xml
+- Apache POI jar is added for parameterized testing and excelutil is created to read data from excel sheet. In LoginPageTest class, invalid credentials test case is created using parameterized approach and all data is got from excel data file.
 
 ## Local usage: Clone framework 
 
