@@ -1,0 +1,371 @@
+2021-03-27 22:41:02,387  INFO [main] CheckBoxTest:33 - starting ---------->>>> CheckBoxTest
+2021-03-27 22:41:03,279  INFO [main] CheckBoxTest:48 - starting -------->>> testUnCheckedBox
+2021-03-27 22:41:03,293  INFO [main] CheckBoxTest:50 - ending -------->>> testUnCheckedBox
+2021-03-27 22:41:03,368  INFO [main] CheckBoxTest:33 - starting ---------->>>> CheckBoxTest
+2021-03-27 22:41:04,320  INFO [main] CheckBoxTest:59 - starting -------->>> testCheckedBox
+2021-03-27 22:41:04,334  INFO [main] CheckBoxTest:61 - ending -------->>> testCheckedBox
+2021-03-27 22:41:15,288  INFO [main] LoginPageTest:38 - starting ---------->>>> LoginPageTest
+2021-03-27 22:41:16,242  INFO [main] LoginPageTest:51 - starting -------->>> testPageTitleTest
+2021-03-27 22:41:16,246  INFO [main] LoginPageTest:55 - ending -------->>> testPageTitleTest
+2021-03-27 22:41:16,322  INFO [main] LoginPageTest:38 - starting ---------->>>> LoginPageTest
+2021-03-27 22:41:17,294  INFO [main] LoginPageTest:64 - starting -------->>> testLoginValidCreds
+2021-03-27 22:41:17,539  INFO [main] LoginPageTest:68 - ending -------->>> testLoginValidCreds
+2021-03-27 22:41:18,116  INFO [main] LoginPageTest:38 - starting ---------->>>> LoginPageTest
+2021-03-27 22:41:19,092  INFO [main] LoginPageTest:84 - starting -------->>> testLoginInvalidCred
+2021-03-27 22:41:19,339  INFO [main] LoginPageTest:90 - starting -------->>> testLoginInvalidCred
+2021-03-27 22:41:19,416  INFO [main] LoginPageTest:38 - starting ---------->>>> LoginPageTest
+2021-03-27 22:41:20,390  INFO [main] LoginPageTest:84 - starting -------->>> testLoginInvalidCred
+2021-03-27 22:41:20,634  INFO [main] LoginPageTest:90 - starting -------->>> testLoginInvalidCred
+2021-03-27 22:41:20,709  INFO [main] LoginPageTest:38 - starting ---------->>>> LoginPageTest
+2021-03-27 22:41:21,770  INFO [main] LoginPageTest:84 - starting -------->>> testLoginInvalidCred
+2021-03-27 22:41:22,014  INFO [main] LoginPageTest:90 - starting -------->>> testLoginInvalidCred
+2021-03-27 22:41:23,630 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-27 22:41:23,630 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2021-03-27 22:41:23,632 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2021-03-27 22:41:23,632 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/Users/bobit/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2021-03-27 22:41:23,822 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-27 22:41:23,822 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2021-03-27 22:41:23,823 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2021-03-27 22:41:23,823 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/Users/bobit/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2021-03-27 22:41:23,824 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-27 22:41:23,824 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2021-03-27 22:41:23,824 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2021-03-27 22:41:23,825 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/Users/bobit/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2021-03-27 22:41:23,828 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-27 22:41:23,829 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2021-03-27 22:41:23,829 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2021-03-27 22:41:23,829 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/bobit/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2021-03-27 22:41:23,836 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-27 22:41:23,836 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2021-03-27 22:41:23,837 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2021-03-27 22:41:23,837 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/Users/bobit/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2021-03-27 22:41:23,843 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-27 22:41:23,843 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2021-03-27 22:41:23,843 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2021-03-27 22:41:23,844 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/Users/bobit/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2021-03-27 22:41:23,853 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 22:41:23,854 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 22:41:23,854 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 22:41:23,855 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 22:41:23,856 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 22:41:23,856 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 22:41:23,857 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 22:41:23,858 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 22:41:23,859 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 22:41:23,859 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 22:41:23,860 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 22:41:23,860 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 22:41:23,860 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 22:41:23,861 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 22:41:23,862 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 22:41:23,863 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 22:41:23,864 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 22:41:23,864 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 22:41:23,865 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 22:41:23,865 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 22:41:23,866 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 22:41:23,866 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 22:41:23,867 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 22:41:23,867 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 22:41:23,867 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 22:41:23,868 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-27 22:41:23,868 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2021-03-27 22:41:23,868 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2021-03-27 22:41:23,868 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/bobit/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2021-03-27 22:41:23,873 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-27 22:41:23,873 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2021-03-27 22:41:23,874 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2021-03-27 22:41:23,874 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/bobit/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2021-03-27 22:41:23,875 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-27 22:41:23,876 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2021-03-27 22:41:23,876 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2021-03-27 22:41:23,876 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/bobit/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2021-03-27 22:41:23,880 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-27 22:41:23,880 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2021-03-27 22:41:23,880 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2021-03-27 22:41:23,880 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/bobit/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2021-03-27 22:41:23,884 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-27 22:41:23,884 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2021-03-27 22:41:23,884 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2021-03-27 22:41:23,885 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/bobit/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2021-03-27 23:08:16,931  INFO [main] FloatingMenuPageTest:32 - starting ---------->>>> FloatingMenuPageTest
+2021-03-27 23:08:21,991  INFO [main] FloatingMenuPageTest:48 - starting -------->>> testScrollAndCheckMenuFloating
+2021-03-27 23:08:22,015  INFO [main] FloatingMenuPageTest:50 - ending -------->>> testScrollAndCheckMenuFloating
+2021-03-27 23:15:12,200  INFO [main] JavaScriptErrorPageTest:33 - starting ---------->>>> JavaScriptErrorPageTest
+2021-03-27 23:15:13,975  INFO [main] JavaScriptErrorPageTest:49 - starting -------->>> testDetectJSError
+2021-03-27 23:15:13,986  INFO [main] JavaScriptErrorPageTest:51 - ending -------->>> testDetectJSError
+2021-03-27 23:15:14,076  INFO [main] FileDownloadPageTest:32 - starting ---------->>>> FileDownloadPageTest
+2021-03-27 23:15:15,040  INFO [main] FileDownloadPageTest:49 - starting -------->>> testDownloadFile
+2021-03-27 23:15:20,087  INFO [main] FileDownloadPageTest:53 - ending -------->>> testDownloadFile
+2021-03-27 23:15:20,167  INFO [main] DragDropTest:35 - starting ---------->>>> DragDropTes
+2021-03-27 23:15:21,098  INFO [main] DragDropTest:51 - starting -------->>> testDragDropPage
+2021-03-27 23:15:21,391  INFO [main] DragDropTest:57 - ending -------->>> testDragDropPage
+2021-03-27 23:15:21,466  INFO [main] DynamicLoadingPageTest:33 - starting ---------->>>> DynamicLoadingPageTest
+2021-03-27 23:15:22,483  INFO [main] DynamicLoadingPageTest:49 - starting -------->>> testLoadNewText
+2021-03-27 23:15:27,658  INFO [main] DynamicLoadingPageTest:53 - ending -------->>> testLoadNewText
+2021-03-27 23:15:27,736  INFO [main] MouseHoverPage:33 - starting ---------->>>> MouseHoverPage
+2021-03-27 23:15:28,650  INFO [main] MouseHoverPage:49 - starting -------->>> testHoverToSeeUserInfo
+2021-03-27 23:15:29,022  INFO [main] MouseHoverPage:53 - ending -------->>> testHoverToSeeUserInfo
+2021-03-27 23:15:29,098  INFO [main] FileUploadPageTest:32 - starting ---------->>>> CheckBoxTest
+2021-03-27 23:15:30,043  INFO [main] FileUploadPageTest:48 - starting ---------->>>> testUploadFile
+2021-03-27 23:15:30,121  INFO [main] FileUploadPageTest:55 - starting ---------->>>> testUploadFile
+2021-03-27 23:15:30,198  INFO [main] DynamicContentPageTest:34 - starting ---------->>>> DynamicContentPageTest
+2021-03-27 23:15:31,307  INFO [main] DynamicContentPageTest:70 - starting -------->>> testDynamicContent
+2021-03-27 23:15:31,660  INFO [main] DynamicContentPageTest:73 - ending -------->>> testDynamicContent
+2021-03-27 23:15:31,736  INFO [main] DynamicControlPageTest:33 - starting ---------->>>> DynamicControlPageTest
+2021-03-27 23:15:32,820  INFO [main] DynamicControlPageTest:49 - starting -------->>> testEnabledTextField
+2021-03-27 23:15:36,055  INFO [main] DynamicControlPageTest:61 - ending -------->>> testEnabledTextField
+2021-03-27 23:15:36,136  INFO [main] DynamicControlPageTest:33 - starting ---------->>>> DynamicControlPageTest
+2021-03-27 23:15:37,142  INFO [main] DynamicControlPageTest:71 - starting -------->>> testRemoveCheckBox
+2021-03-27 23:15:37,210  INFO [main] DynamicControlPageTest:75 - ending -------->>> testRemoveCheckBox
+2021-03-27 23:15:37,339  INFO [main] CheckBoxTest:33 - starting ---------->>>> CheckBoxTest
+2021-03-27 23:15:38,337  INFO [main] CheckBoxTest:48 - starting -------->>> testUnCheckedBox
+2021-03-27 23:15:38,351  INFO [main] CheckBoxTest:50 - ending -------->>> testUnCheckedBox
+2021-03-27 23:15:38,428  INFO [main] CheckBoxTest:33 - starting ---------->>>> CheckBoxTest
+2021-03-27 23:15:39,422  INFO [main] CheckBoxTest:59 - starting -------->>> testCheckedBox
+2021-03-27 23:15:39,474  INFO [main] CheckBoxTest:61 - ending -------->>> testCheckedBox
+2021-03-27 23:15:39,550  INFO [main] JavaScriptAlertPageTest:34 - starting ---------->>>> JavaScriptAlertPageTest
+2021-03-27 23:15:40,545  INFO [main] JavaScriptAlertPageTest:50 - starting -------->>> testJSalert
+2021-03-27 23:15:40,593  INFO [main] JavaScriptAlertPageTest:54 - ending -------->>> testJSalert
+2021-03-27 23:15:40,666  INFO [main] JavaScriptAlertPageTest:34 - starting ---------->>>> JavaScriptAlertPageTest
+2021-03-27 23:15:41,579  INFO [main] JavaScriptAlertPageTest:64 - starting -------->>> testJSConfirm
+2021-03-27 23:15:41,625  INFO [main] JavaScriptAlertPageTest:68 - ending -------->>> testJSConfirm
+2021-03-27 23:15:41,700  INFO [main] JavaScriptAlertPageTest:34 - starting ---------->>>> JavaScriptAlertPageTest
+2021-03-27 23:15:42,738  INFO [main] JavaScriptAlertPageTest:78 - starting -------->>> testJSPrompt
+2021-03-27 23:15:42,797  INFO [main] JavaScriptAlertPageTest:82 - ending -------->>> testJSPrompt
+2021-03-27 23:15:42,874  INFO [main] DropDownPageTest:35 - starting ---------->>>> DropDownPageTest
+2021-03-27 23:15:43,766  INFO [main] DropDownPageTest:60 - starting -------->>> secondFirstOptionn
+2021-03-27 23:15:43,827  INFO [main] DropDownPageTest:63 - starting -------->>> secondFirstOption
+2021-03-27 23:15:43,902  INFO [main] DropDownPageTest:35 - starting ---------->>>> DropDownPageTest
+2021-03-27 23:15:44,831  INFO [main] DropDownPageTest:51 - starting -------->>> testFirstOption
+2021-03-27 23:15:44,889  INFO [main] DropDownPageTest:54 - ending -------->>> testFirstOption
+2021-03-27 23:15:44,966  INFO [main] ContextMenuPageTest:36 - starting ---------->>>> ContextMenuPageTest 
+2021-03-27 23:15:45,862  INFO [main] ContextMenuPageTest:53 - starting -------->>> testContextPage
+2021-03-27 23:15:46,012  INFO [main] ContextMenuPageTest:57 - ending -------->>> testContextPage
+2021-03-27 23:15:46,088  INFO [main] OpenNewTabPageTest:33 - starting ---------->>>> OpenNewTabPageTest
+2021-03-27 23:15:47,053  INFO [main] OpenNewTabPageTest:49 - starting -------->>> testOpenNewTab
+2021-03-27 23:15:47,187  INFO [main] OpenNewTabPageTest:54 - starting -------->>> testOpenNewTab
+2021-03-27 23:15:47,261  INFO [main] FloatingMenuPageTest:32 - starting ---------->>>> FloatingMenuPageTest
+2021-03-27 23:15:48,203  INFO [main] FloatingMenuPageTest:48 - starting -------->>> testScrollAndCheckMenuFloating
+2021-03-27 23:15:48,221  INFO [main] FloatingMenuPageTest:50 - ending -------->>> testScrollAndCheckMenuFloating
+2021-03-27 23:15:48,296  INFO [main] NotificationMessageRenderedPageTest:33 - starting ---------->>>> NotificationMessageRenderedPageTest
+2021-03-27 23:15:49,224  INFO [main] NotificationMessageRenderedPageTest:45 - starting -------->>> testNotification
+2021-03-27 23:15:49,387  INFO [main] NotificationMessageRenderedPageTest:52 - ending -------->>> testNotification
+2021-03-27 23:15:49,462  INFO [main] LoginPageTest:38 - starting ---------->>>> LoginPageTest
+2021-03-27 23:15:50,417  INFO [main] LoginPageTest:51 - starting -------->>> testPageTitleTest
+2021-03-27 23:15:50,422  INFO [main] LoginPageTest:55 - ending -------->>> testPageTitleTest
+2021-03-27 23:15:50,496  INFO [main] LoginPageTest:38 - starting ---------->>>> LoginPageTest
+2021-03-27 23:15:51,491  INFO [main] LoginPageTest:64 - starting -------->>> testLoginValidCreds
+2021-03-27 23:15:51,734  INFO [main] LoginPageTest:68 - ending -------->>> testLoginValidCreds
+2021-03-27 23:15:51,856 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-27 23:15:51,857 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2021-03-27 23:15:51,858 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2021-03-27 23:15:51,858 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/Users/bobit/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2021-03-27 23:15:52,015 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-27 23:15:52,016 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2021-03-27 23:15:52,016 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2021-03-27 23:15:52,016 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/Users/bobit/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2021-03-27 23:15:52,018 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-27 23:15:52,018 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2021-03-27 23:15:52,018 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2021-03-27 23:15:52,018 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/Users/bobit/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2021-03-27 23:15:52,022 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-27 23:15:52,022 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2021-03-27 23:15:52,022 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2021-03-27 23:15:52,023 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/bobit/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2021-03-27 23:15:52,030 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-27 23:15:52,030 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2021-03-27 23:15:52,030 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2021-03-27 23:15:52,030 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/Users/bobit/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2021-03-27 23:15:52,037 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-27 23:15:52,037 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2021-03-27 23:15:52,037 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2021-03-27 23:15:52,037 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/Users/bobit/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2021-03-27 23:15:52,048 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:15:52,048 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:15:52,049 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:15:52,050 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:15:52,050 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:15:52,051 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:15:52,051 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:15:52,120 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:15:52,121 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:15:52,122 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:15:52,122 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:15:52,123 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:15:52,123 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:15:52,124 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:15:52,124 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:15:52,126 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:15:52,127 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:15:52,127 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:15:52,127 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:15:52,128 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:15:52,128 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:15:52,129 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-27 23:15:52,129 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2021-03-27 23:15:52,129 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2021-03-27 23:15:52,129 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/bobit/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2021-03-27 23:15:52,134 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-27 23:15:52,134 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2021-03-27 23:15:52,134 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2021-03-27 23:15:52,134 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/bobit/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2021-03-27 23:15:52,136 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-27 23:15:52,137 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2021-03-27 23:15:52,137 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2021-03-27 23:15:52,137 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/bobit/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2021-03-27 23:15:52,138 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-27 23:15:52,139 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2021-03-27 23:15:52,139 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2021-03-27 23:15:52,139 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/bobit/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2021-03-27 23:15:52,142 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-27 23:15:52,143 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2021-03-27 23:15:52,143 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2021-03-27 23:15:52,143 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/bobit/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2021-03-27 23:18:13,345  INFO [main] JavaScriptErrorPageTest:33 - starting ---------->>>> JavaScriptErrorPageTest
+2021-03-27 23:18:14,995  INFO [main] JavaScriptErrorPageTest:49 - starting -------->>> testDetectJSError
+2021-03-27 23:18:15,005  INFO [main] JavaScriptErrorPageTest:51 - ending -------->>> testDetectJSError
+2021-03-27 23:18:15,095  INFO [main] FileDownloadPageTest:32 - starting ---------->>>> FileDownloadPageTest
+2021-03-27 23:18:16,051  INFO [main] FileDownloadPageTest:49 - starting -------->>> testDownloadFile
+2021-03-27 23:18:21,100  INFO [main] FileDownloadPageTest:53 - ending -------->>> testDownloadFile
+2021-03-27 23:18:21,182  INFO [main] DragDropTest:35 - starting ---------->>>> DragDropTes
+2021-03-27 23:18:22,126  INFO [main] DragDropTest:51 - starting -------->>> testDragDropPage
+2021-03-27 23:18:22,434  INFO [main] DragDropTest:57 - ending -------->>> testDragDropPage
+2021-03-27 23:18:22,512  INFO [main] DynamicLoadingPageTest:33 - starting ---------->>>> DynamicLoadingPageTest
+2021-03-27 23:18:23,470  INFO [main] DynamicLoadingPageTest:49 - starting -------->>> testLoadNewText
+2021-03-27 23:18:28,623  INFO [main] DynamicLoadingPageTest:53 - ending -------->>> testLoadNewText
+2021-03-27 23:18:28,701  INFO [main] MouseHoverPage:33 - starting ---------->>>> MouseHoverPage
+2021-03-27 23:18:29,626  INFO [main] MouseHoverPage:49 - starting -------->>> testHoverToSeeUserInfo
+2021-03-27 23:18:30,001  INFO [main] MouseHoverPage:53 - ending -------->>> testHoverToSeeUserInfo
+2021-03-27 23:18:30,076  INFO [main] FileUploadPageTest:32 - starting ---------->>>> CheckBoxTest
+2021-03-27 23:18:31,063  INFO [main] FileUploadPageTest:48 - starting ---------->>>> testUploadFile
+2021-03-27 23:18:31,137  INFO [main] FileUploadPageTest:55 - starting ---------->>>> testUploadFile
+2021-03-27 23:18:31,212  INFO [main] DynamicContentPageTest:34 - starting ---------->>>> DynamicContentPageTest
+2021-03-27 23:18:32,266  INFO [main] DynamicContentPageTest:70 - starting -------->>> testDynamicContent
+2021-03-27 23:18:32,603  INFO [main] DynamicContentPageTest:73 - ending -------->>> testDynamicContent
+2021-03-27 23:18:32,679  INFO [main] DynamicControlPageTest:33 - starting ---------->>>> DynamicControlPageTest
+2021-03-27 23:18:33,610  INFO [main] DynamicControlPageTest:49 - starting -------->>> testEnabledTextField
+2021-03-27 23:18:36,852  INFO [main] DynamicControlPageTest:61 - ending -------->>> testEnabledTextField
+2021-03-27 23:18:36,931  INFO [main] DynamicControlPageTest:33 - starting ---------->>>> DynamicControlPageTest
+2021-03-27 23:18:37,913  INFO [main] DynamicControlPageTest:71 - starting -------->>> testRemoveCheckBox
+2021-03-27 23:18:37,979  INFO [main] DynamicControlPageTest:75 - ending -------->>> testRemoveCheckBox
+2021-03-27 23:18:38,052  INFO [main] CheckBoxTest:33 - starting ---------->>>> CheckBoxTest
+2021-03-27 23:18:38,934  INFO [main] CheckBoxTest:48 - starting -------->>> testUnCheckedBox
+2021-03-27 23:18:38,947  INFO [main] CheckBoxTest:50 - ending -------->>> testUnCheckedBox
+2021-03-27 23:18:39,021  INFO [main] CheckBoxTest:33 - starting ---------->>>> CheckBoxTest
+2021-03-27 23:18:39,909  INFO [main] CheckBoxTest:59 - starting -------->>> testCheckedBox
+2021-03-27 23:18:39,924  INFO [main] CheckBoxTest:61 - ending -------->>> testCheckedBox
+2021-03-27 23:18:39,999  INFO [main] JavaScriptAlertPageTest:34 - starting ---------->>>> JavaScriptAlertPageTest
+2021-03-27 23:18:40,909  INFO [main] JavaScriptAlertPageTest:50 - starting -------->>> testJSalert
+2021-03-27 23:18:40,966  INFO [main] JavaScriptAlertPageTest:54 - ending -------->>> testJSalert
+2021-03-27 23:18:41,043  INFO [main] JavaScriptAlertPageTest:34 - starting ---------->>>> JavaScriptAlertPageTest
+2021-03-27 23:18:41,977  INFO [main] JavaScriptAlertPageTest:64 - starting -------->>> testJSConfirm
+2021-03-27 23:18:42,031  INFO [main] JavaScriptAlertPageTest:68 - ending -------->>> testJSConfirm
+2021-03-27 23:18:42,108  INFO [main] JavaScriptAlertPageTest:34 - starting ---------->>>> JavaScriptAlertPageTest
+2021-03-27 23:18:43,038  INFO [main] JavaScriptAlertPageTest:78 - starting -------->>> testJSPrompt
+2021-03-27 23:18:43,098  INFO [main] JavaScriptAlertPageTest:82 - ending -------->>> testJSPrompt
+2021-03-27 23:18:43,175  INFO [main] DropDownPageTest:35 - starting ---------->>>> DropDownPageTest
+2021-03-27 23:18:44,256  INFO [main] DropDownPageTest:60 - starting -------->>> secondFirstOptionn
+2021-03-27 23:18:44,318  INFO [main] DropDownPageTest:63 - starting -------->>> secondFirstOption
+2021-03-27 23:18:44,396  INFO [main] DropDownPageTest:35 - starting ---------->>>> DropDownPageTest
+2021-03-27 23:18:45,269  INFO [main] DropDownPageTest:51 - starting -------->>> testFirstOption
+2021-03-27 23:18:45,327  INFO [main] DropDownPageTest:54 - ending -------->>> testFirstOption
+2021-03-27 23:18:45,403  INFO [main] ContextMenuPageTest:36 - starting ---------->>>> ContextMenuPageTest 
+2021-03-27 23:18:46,385  INFO [main] ContextMenuPageTest:53 - starting -------->>> testContextPage
+2021-03-27 23:18:46,538  INFO [main] ContextMenuPageTest:57 - ending -------->>> testContextPage
+2021-03-27 23:18:46,611  INFO [main] OpenNewTabPageTest:33 - starting ---------->>>> OpenNewTabPageTest
+2021-03-27 23:18:47,517  INFO [main] OpenNewTabPageTest:49 - starting -------->>> testOpenNewTab
+2021-03-27 23:18:47,643  INFO [main] OpenNewTabPageTest:54 - starting -------->>> testOpenNewTab
+2021-03-27 23:18:47,718  INFO [main] FloatingMenuPageTest:32 - starting ---------->>>> FloatingMenuPageTest
+2021-03-27 23:18:48,628  INFO [main] FloatingMenuPageTest:48 - starting -------->>> testScrollAndCheckMenuFloating
+2021-03-27 23:18:48,647  INFO [main] FloatingMenuPageTest:50 - ending -------->>> testScrollAndCheckMenuFloating
+2021-03-27 23:18:48,721  INFO [main] NotificationMessageRenderedPageTest:33 - starting ---------->>>> NotificationMessageRenderedPageTest
+2021-03-27 23:18:49,642  INFO [main] NotificationMessageRenderedPageTest:45 - starting -------->>> testNotification
+2021-03-27 23:18:49,798  INFO [main] NotificationMessageRenderedPageTest:52 - ending -------->>> testNotification
+2021-03-27 23:18:49,874  INFO [main] LoginPageTest:38 - starting ---------->>>> LoginPageTest
+2021-03-27 23:18:50,799  INFO [main] LoginPageTest:51 - starting -------->>> testPageTitleTest
+2021-03-27 23:18:50,804  INFO [main] LoginPageTest:55 - ending -------->>> testPageTitleTest
+2021-03-27 23:18:50,878  INFO [main] LoginPageTest:38 - starting ---------->>>> LoginPageTest
+2021-03-27 23:18:51,880  INFO [main] LoginPageTest:64 - starting -------->>> testLoginValidCreds
+2021-03-27 23:18:52,128  INFO [main] LoginPageTest:68 - ending -------->>> testLoginValidCreds
+2021-03-27 23:18:52,695  INFO [main] LoginPageTest:38 - starting ---------->>>> LoginPageTest
+2021-03-27 23:18:53,734  INFO [main] LoginPageTest:84 - starting -------->>> testLoginInvalidCred
+2021-03-27 23:18:53,979  INFO [main] LoginPageTest:90 - starting -------->>> testLoginInvalidCred
+2021-03-27 23:18:54,055  INFO [main] LoginPageTest:38 - starting ---------->>>> LoginPageTest
+2021-03-27 23:18:55,014  INFO [main] LoginPageTest:84 - starting -------->>> testLoginInvalidCred
+2021-03-27 23:18:55,256  INFO [main] LoginPageTest:90 - starting -------->>> testLoginInvalidCred
+2021-03-27 23:18:55,334  INFO [main] LoginPageTest:38 - starting ---------->>>> LoginPageTest
+2021-03-27 23:18:56,272  INFO [main] LoginPageTest:84 - starting -------->>> testLoginInvalidCred
+2021-03-27 23:18:56,508  INFO [main] LoginPageTest:90 - starting -------->>> testLoginInvalidCred
+2021-03-27 23:18:56,585  INFO [main] IFramePageTest:33 - starting ---------->>>> IFramePageTest
+2021-03-27 23:18:58,685  INFO [main] IFramePageTest:49 - starting -------->>> testInputTextToIframe
+2021-03-27 23:18:58,870  INFO [main] IFramePageTest:51 - ending -------->>> testInputTextToIframe
+2021-03-27 23:18:58,987 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-27 23:18:58,988 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2021-03-27 23:18:58,990 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2021-03-27 23:18:58,990 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/Users/bobit/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2021-03-27 23:18:59,154 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-27 23:18:59,154 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2021-03-27 23:18:59,154 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2021-03-27 23:18:59,154 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/Users/bobit/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2021-03-27 23:18:59,156 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-27 23:18:59,156 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2021-03-27 23:18:59,156 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2021-03-27 23:18:59,156 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/Users/bobit/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2021-03-27 23:18:59,160 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-27 23:18:59,160 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2021-03-27 23:18:59,161 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2021-03-27 23:18:59,161 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/bobit/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2021-03-27 23:18:59,168 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-27 23:18:59,168 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2021-03-27 23:18:59,168 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2021-03-27 23:18:59,169 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/Users/bobit/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2021-03-27 23:18:59,175 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-27 23:18:59,175 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2021-03-27 23:18:59,175 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2021-03-27 23:18:59,175 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/Users/bobit/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2021-03-27 23:18:59,185 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:18:59,186 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:18:59,187 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:18:59,187 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:18:59,188 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:18:59,189 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:18:59,189 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:18:59,190 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:18:59,191 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:18:59,191 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:18:59,192 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:18:59,192 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:18:59,192 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:18:59,193 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:18:59,194 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:18:59,196 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:18:59,196 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:18:59,196 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:18:59,197 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:18:59,197 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:18:59,198 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:18:59,198 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:18:59,198 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:18:59,199 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:18:59,199 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-27 23:18:59,199 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-27 23:18:59,200 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2021-03-27 23:18:59,200 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2021-03-27 23:18:59,200 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/bobit/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2021-03-27 23:18:59,205 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-27 23:18:59,206 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2021-03-27 23:18:59,206 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2021-03-27 23:18:59,206 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/bobit/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2021-03-27 23:18:59,208 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-27 23:18:59,208 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2021-03-27 23:18:59,208 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2021-03-27 23:18:59,208 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/bobit/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2021-03-27 23:18:59,210 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-27 23:18:59,210 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2021-03-27 23:18:59,210 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2021-03-27 23:18:59,210 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/bobit/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2021-03-27 23:18:59,214 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-27 23:18:59,214 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2021-03-27 23:18:59,214 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2021-03-27 23:18:59,214 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/bobit/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
