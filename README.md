@@ -21,5 +21,4 @@ Download or clone the project on your local system after that in the terminal ex
 - go to test resources and find runner package, then execute runnertest.xml file
 
 ## Reports
-
-https://github.com/BobIT37/WebdriverTestCases/blob/master/build/TestExecutionReport.html
+[![N|Solid](https://github.com/BobIT37/WebdriverTestCases/blob/master/build/TestExecutionReport.html)](https://bobit37.github.io/Resume/)
