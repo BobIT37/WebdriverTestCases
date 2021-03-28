@@ -69,12 +69,19 @@ http://localhost:7080
 - cd project path
 
 ## to execute all test cases in a class
-- mvn -Dtest=LoginPageTest test
+```
+mvn -Dtest=LoginPageTest test
+
+```
+
 
 ## to execute specific test method in a class
-- mvn -Dtest=LoginPageTest#testPageTitleTest test
-- mvn -Dtest=LoginPageTest#testLoginValidCreds test
-- mvn -Dtest=LoginPageTest#testLoginInvalidCreds test
+```
+mvn -Dtest=LoginPageTest#testPageTitleTest test
+mvn -Dtest=LoginPageTest#testLoginValidCreds test
+mvn -Dtest=LoginPageTest#testLoginInvalidCreds test
+
+```
 
 ## without command line
 - go to test resources and find runner package, then execute testngrunner.xml file
