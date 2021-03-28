@@ -21,4 +21,4 @@ Download or clone the project on your local system after that in the terminal ex
 - go to test resources and find runner package, then execute runnertest.xml file
 
 ## Reports
-[![N|Solid](Report]https://github.com/BobIT37/WebdriverTestCases/blob/master/build/TestExecutionReport.html
+[![N|Solid](https://www.extentreports.com/wp-content/uploads/2018/09/Extent_logomark_transparentbg.png)]https://github.com/BobIT37/WebdriverTestCases/blob/master/build/TestExecutionReport.html
