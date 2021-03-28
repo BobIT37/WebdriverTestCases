@@ -28,7 +28,10 @@ This framework is compatible with parallel execution and just configure in runne
 ## without command line
 - go to test resources and find runner package, then execute testngrunner.xml file
 
-## Reports
+# Reports
 
-# Extent Report
+## Extent Report
 https://bobit37.github.io/extentreport/
+
+## Allure Report
+http://192.168.1.182:51562/index.html
