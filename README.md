@@ -33,6 +33,9 @@
 ## Extent Report
 https://bobit37.github.io/extentreport/
 
+## Emailable HTML Report
+https://bobit37.github.io/htmlreport/
+
 ## Allure Report
 - cd project path
 - run command: allure serve allure-results
