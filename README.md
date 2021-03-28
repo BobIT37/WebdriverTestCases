@@ -1,24 +1,34 @@
 [![N|Solid](https://www.bobit.us/images/bobit-logo.png)](https://bobit37.github.io/Resume/)
 
-# Pagination Helper Task
+# WebdriverTestCases
 
-This project has been created using Maven and TestNG is used for unit test. 
-Download or clone the project on your local system after that in the terminal execute following commands.
+This project has been created using Maven and TestNG.
+Allure report, extent report can be generated.
+Screenshot listener is cretaed to take screentshot if test case is failed. In framework target > surefire-reports > failure_screenshots
+Another taking screenshot is put in Allure listener. Project > screenthots
+All log files are stored in logs > application.properties.
+This framework is compatible with parallel execution and just configure in runner.xml
 
+## Local usage: Clone framework 
+
+- To use framework, copy https://github.com/BobIT37/WebdriverTestCases.git and clone in Eclipse or INtellij IDEA
+
+## Using command line
 ## Specify project path on the terminal
 - cd project path
 
-## to execute all test cases
-- mvn -Dtest=PaginationHelperTest test
+## to execute all test cases in a class
+- mvn -Dtest=LoginPageTest test
 
-## to execute specific test case
-- mvn -Dtest=PaginationHelperTest#getItemCount test
-- mvn -Dtest=PaginationHelperTest#getPageIndex test
-- mvn -Dtest=PaginationHelperTest#getPageCount test
-- mvn -Dtest=PaginationHelperTest#getPageItemCount test
+## to execute specific test method in a class
+- mvn -Dtest=LoginPageTest#testPageTitleTest test
+- mvn -Dtest=LoginPageTest#testLoginValidCreds test
+- mvn -Dtest=LoginPageTest#testLoginInvalidCreds test
 
 ## without command line
-- go to test resources and find runner package, then execute runnertest.xml file
+- go to test resources and find runner package, then execute testngrunner.xml file
 
 ## Reports
 
+# Extent Report
+https://bobit37.github.io/extentreport/
