@@ -62,7 +62,7 @@ http://localhost:7080
 
 ## Local usage: Clone framework 
 
-- To use framework, copy https://github.com/BobIT37/WebdriverTestCases.git and clone in Eclipse or INtellij IDEA
+- To use framework, copy https://github.com/BobIT37/WebdriverTestCases.git and clone in Eclipse or Intellij IDEA
 
 ## Using command line
 ## Specify project path on the terminal
