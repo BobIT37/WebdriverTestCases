@@ -50,7 +50,7 @@ http://localhost:7080
 - Open in New Tab: http://localhost:7080/windows Test Link Opens in new tab.
 - Notification Message: http://localhost:7080/notification_message_rendered Test notification Message.
 
-## WebdriverTestCases
+## About this project
 
 - This project has been created Page Object Model (POM) approach using Maven and TestNG.
 - Allure report, extent report can be generated.
