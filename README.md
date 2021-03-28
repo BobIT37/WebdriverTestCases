@@ -66,7 +66,7 @@ http://localhost:7080
 
 ## Using command line
 ## Specify project path on the terminal
-- cd project path
+- cd project_path
 
 ## to execute all test cases in a class
 ```
