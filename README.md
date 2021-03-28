@@ -2,6 +2,24 @@
 
 # WebdriverTestCases
 
+## Prerequisites
+
+- Docker
+- Git
+- Java
+- Selenium WebDriver
+- Chrome Driver
+- IDE
+
+## Steps
+
+- Pull Docker image for the-internet app:
+```
+docker pull gprestes/the-internet
+```
+
+# WebdriverTestCases
+
 - This project has been created Page Object Model (POM) approach using Maven and TestNG.
 - Allure report, extent report can be generated.
 - Screenshot listener is cretaed to take screentshot if test case is failed. In framework target > surefire-reports > failure_screenshots
