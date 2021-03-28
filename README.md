@@ -2,12 +2,12 @@
 
 # WebdriverTestCases
 
-This project has been created using Maven and TestNG.
-Allure report, extent report can be generated.
-Screenshot listener is cretaed to take screentshot if test case is failed. In framework target > surefire-reports > failure_screenshots
-Another taking screenshot is put in Allure listener. Project > screenthots
-All log files are stored in logs > application.properties.
-This framework is compatible with parallel execution and just configure in runner.xml
+- This project has been created Page Object Model (POM) approach using Maven and TestNG.
+- Allure report, extent report can be generated.
+- Screenshot listener is cretaed to take screentshot if test case is failed. In framework target > surefire-reports > failure_screenshots
+- Another taking screenshot is put in Allure listener. Project > screenthots
+- All log files are stored in logs > application.properties.
+- This framework is compatible with parallel execution and just configure in runner.xml
 
 ## Local usage: Clone framework 
 
@@ -34,4 +34,5 @@ This framework is compatible with parallel execution and just configure in runne
 https://bobit37.github.io/extentreport/
 
 ## Allure Report
-http://192.168.1.182:51562/index.html
+- cd project path
+- run command: allure serve allure-results
