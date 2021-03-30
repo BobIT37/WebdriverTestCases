@@ -82,7 +82,32 @@ mvn -Dtest=LoginPageTest#testLoginValidCreds test
 mvn -Dtest=LoginPageTest#testLoginInvalidCreds test
 
 ```
+## If you get compilation error when you execute it on terminal
 
+- Find following plugin in POM.xml
+
+```
+      <plugin>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.7.0</version>
+				<configuration>
+					<source>1.8</source>
+					<target>1.8</target>
+				</configuration>
+			</plugin>
+```
+- past following plugin instead of previuos one
+
+```
+      <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-compiler-plugin</artifactId>
+            <configuration>
+                <source>1.8</source>
+                <target>1.8</target>
+            </configuration>
+        </plugin>
+```
 ## without command line
 - go to test resources and find runner package, then execute testngrunner.xml file
 
