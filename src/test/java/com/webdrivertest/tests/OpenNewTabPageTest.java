@@ -8,11 +8,9 @@ import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-
 import com.webdrivertest.base.BasePage;
 import com.webdrivertest.pages.OpenNewTabPage;
 import com.webdrivertest.utils.AppConstants;
-
 import io.qameta.allure.Description;
 import io.qameta.allure.Epic;
 import io.qameta.allure.Feature;
