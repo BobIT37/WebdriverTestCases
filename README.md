@@ -99,14 +99,14 @@ mvn -Dtest=LoginPageTest#testLoginInvalidCreds test
 - past following plugin instead of previuos one
 
 ```
-      <plugin>
-            <groupId>org.apache.maven.plugins</groupId>
-            <artifactId>maven-compiler-plugin</artifactId>
-            <configuration>
-                <source>1.8</source>
-                <target>1.8</target>
-            </configuration>
-        </plugin>
+<plugin>
+    <groupId>org.apache.maven.plugins</groupId>
+    <artifactId>maven-compiler-plugin</artifactId>
+    <configuration>
+	<source>1.8</source>
+	<target>1.8</target>
+    </configuration>
+</plugin>
 ```
 ## without command line
 - go to test resources and find runner package, then execute testngrunner.xml file
