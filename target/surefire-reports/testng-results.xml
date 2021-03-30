@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="7821" started-at="2021-03-29T22:37:04Z" finished-at="2021-03-29T22:37:12Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="7821" started-at="2021-03-29T22:37:04Z" finished-at="2021-03-29T22:37:12Z">
+      <class name="com.webdrivertest.tests.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.webdrivertest.tests.LoginPageTest@c7a975a]" name="setUp" is-config="true" duration-ms="1704" started-at="2021-03-29T22:37:04Z" finished-at="2021-03-29T22:37:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testPageTitleTest()[pri:1, instance:com.webdrivertest.tests.LoginPageTest@c7a975a]" name="testPageTitleTest" duration-ms="40" started-at="2021-03-29T22:37:06Z" description="get page title method" finished-at="2021-03-29T22:37:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.webdrivertest.tests.LoginPageTest@c7a975a]" name="tearDown" is-config="true" duration-ms="75" started-at="2021-03-29T22:37:06Z" finished-at="2021-03-29T22:37:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.webdrivertest.tests.LoginPageTest@c7a975a]" name="setUp" is-config="true" duration-ms="1028" started-at="2021-03-29T22:37:06Z" finished-at="2021-03-29T22:37:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLoginValidCreds()[pri:2, instance:com.webdrivertest.tests.LoginPageTest@c7a975a]" name="testLoginValidCreds" duration-ms="268" started-at="2021-03-29T22:37:07Z" description="valid username and password login" finished-at="2021-03-29T22:37:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginValidCreds -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.webdrivertest.tests.LoginPageTest@c7a975a]" name="tearDown" is-config="true" duration-ms="74" started-at="2021-03-29T22:37:08Z" finished-at="2021-03-29T22:37:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.webdrivertest.tests.LoginPageTest@c7a975a]" name="setUp" is-config="true" duration-ms="1087" started-at="2021-03-29T22:37:08Z" finished-at="2021-03-29T22:37:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLoginInvalidCreds(java.lang.String, java.lang.String)[pri:3, instance:com.webdrivertest.tests.LoginPageTest@c7a975a]" name="testLoginInvalidCreds" duration-ms="264" started-at="2021-03-29T22:37:09Z" description="invalid username and password login" data-provider="getLoginInvalidData" finished-at="2021-03-29T22:37:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bill@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginInvalidCreds -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.webdrivertest.tests.LoginPageTest@c7a975a]" name="tearDown" is-config="true" duration-ms="77" started-at="2021-03-29T22:37:10Z" finished-at="2021-03-29T22:37:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.webdrivertest.tests.LoginPageTest@c7a975a]" name="setUp" is-config="true" duration-ms="986" started-at="2021-03-29T22:37:10Z" finished-at="2021-03-29T22:37:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLoginInvalidCreds(java.lang.String, java.lang.String)[pri:3, instance:com.webdrivertest.tests.LoginPageTest@c7a975a]" name="testLoginInvalidCreds" duration-ms="257" started-at="2021-03-29T22:37:11Z" description="invalid username and password login" data-provider="getLoginInvalidData" finished-at="2021-03-29T22:37:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jimy@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[panda]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginInvalidCreds -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.webdrivertest.tests.LoginPageTest@c7a975a]" name="tearDown" is-config="true" duration-ms="74" started-at="2021-03-29T22:37:11Z" finished-at="2021-03-29T22:37:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.webdrivertest.tests.LoginPageTest@c7a975a]" name="setUp" is-config="true" duration-ms="919" started-at="2021-03-29T22:37:11Z" finished-at="2021-03-29T22:37:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLoginInvalidCreds(java.lang.String, java.lang.String)[pri:3, instance:com.webdrivertest.tests.LoginPageTest@c7a975a]" name="testLoginInvalidCreds" duration-ms="257" started-at="2021-03-29T22:37:12Z" description="invalid username and password login" data-provider="getLoginInvalidData" finished-at="2021-03-29T22:37:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[yummy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[yummy]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginInvalidCreds -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.webdrivertest.tests.LoginPageTest@c7a975a]" name="tearDown" is-config="true" duration-ms="74" started-at="2021-03-29T22:37:12Z" finished-at="2021-03-29T22:37:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.webdrivertest.tests.LoginPageTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

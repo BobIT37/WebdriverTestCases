@@ -45,6 +45,7 @@ public class FileUploadPageTest {
 	@Description("File Upload.")
 	@Severity(SeverityLevel.NORMAL)
 	public void testUploadFile() {
+		
 		log.info("starting ---------->>>> testUploadFile");
 		fileUploadPage.uploadFile();
 		if(fileUploadPage.isDisplayed()) {
