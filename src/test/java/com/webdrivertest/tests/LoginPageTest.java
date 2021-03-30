@@ -10,13 +10,13 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-import com.sun.org.glassfish.gmbal.Description;
 import com.webdrivertest.base.BasePage;
 import com.webdrivertest.pages.LoginPage;
 import com.webdrivertest.utils.AppConstants;
 import com.webdrivertest.utils.Credentials;
 import com.webdrivertest.utils.ExcelUtils;
 
+import io.qameta.allure.Description;
 import io.qameta.allure.Epic;
 import io.qameta.allure.Feature;
 import io.qameta.allure.Severity;

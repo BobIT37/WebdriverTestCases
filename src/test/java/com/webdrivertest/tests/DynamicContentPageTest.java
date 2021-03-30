@@ -9,10 +9,10 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-import com.sun.org.glassfish.gmbal.Description;
 import com.webdrivertest.base.BasePage;
 import com.webdrivertest.pages.DynamicContentPage;
 
+import io.qameta.allure.Description;
 import io.qameta.allure.Epic;
 import io.qameta.allure.Feature;
 import io.qameta.allure.Severity;
