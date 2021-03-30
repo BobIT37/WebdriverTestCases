@@ -108,7 +108,7 @@ mvn -Dtest=LoginPageTest#testLoginInvalidCreds test
     </configuration>
 </plugin>
 ```
-- java: package org.testng does not exist ---> If you have this error on the console, delete <scope>test<scope> from TestNG dependencies
+- java: package org.testng does not exist ---> If you have this error on the console, delete test scope from TestNG dependencies
 ```
 <!-- https://mvnrepository.com/artifact/org.testng/testng -->
 <dependency>
@@ -118,7 +118,7 @@ mvn -Dtest=LoginPageTest#testLoginInvalidCreds test
     <scope>test</scope>
 </dependency>
 ```	
-- delete <scope>test</scope>	
+- delete test scope line
 	
 ## without command line
 - go to test resources and find runner package, then execute testngrunner.xml file
