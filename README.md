@@ -87,14 +87,14 @@ mvn -Dtest=LoginPageTest#testLoginInvalidCreds test
 - Find following plugin in POM.xml
 
 ```
-      <plugin>
-				<artifactId>maven-compiler-plugin</artifactId>
-				<version>3.7.0</version>
-				<configuration>
-					<source>1.8</source>
-					<target>1.8</target>
-				</configuration>
-			</plugin>
+  <plugin>
+	<artifactId>maven-compiler-plugin</artifactId>
+	<version>3.7.0</version>
+	<configuration>
+		<source>1.8</source>
+		<target>1.8</target>
+	</configuration>
+  </plugin>
 ```
 - past following plugin instead of previuos one
 
