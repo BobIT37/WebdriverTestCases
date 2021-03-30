@@ -91,7 +91,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">5 methods,   5 passed</span>
+                    <span class="method-stats">1 method,   1 passed</span>
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -100,26 +100,6 @@
                       <a href="#" panel-name="suite-Surefire_suite" class="show-methods passed suite-Surefire_suite"> (show)</a> <!-- show-methods passed suite-Surefire_suite -->
                     </span>
                     <div class="method-list-content passed suite-Surefire_suite">
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Surefire_suite" title="com.webdrivertest.tests.LoginPageTest" hash-for-method="testLoginInvalidCreds(bill@gmail.com, test12345)">testLoginInvalidCreds(bill@gmail.com, test12345)</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Surefire_suite" title="com.webdrivertest.tests.LoginPageTest" hash-for-method="testLoginInvalidCreds(jimy@gmail.com, panda)">testLoginInvalidCreds(jimy@gmail.com, panda)</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Surefire_suite" title="com.webdrivertest.tests.LoginPageTest" hash-for-method="testLoginInvalidCreds(yummy, yummy)">testLoginInvalidCreds(yummy, yummy)</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Surefire_suite" title="com.webdrivertest.tests.LoginPageTest" hash-for-method="testLoginValidCreds">testLoginValidCreds</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
                       <span>
                         <img width="3%" src="passed.png"/>
                         <a href="#" class="method navigator-link" panel-name="suite-Surefire_suite" title="com.webdrivertest.tests.LoginPageTest" hash-for-method="testPageTitleTest">testPageTitleTest</a> <!-- method navigator-link -->
@@ -145,45 +125,6 @@
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="testLoginInvalidCreds(bill@gmail.com, test12345)">
-                  </a> <!-- testLoginInvalidCreds(bill@gmail.com, test12345) -->
-                  <span class="method-name">testLoginInvalidCreds</span>
-                  <span class="parameters">(bill@gmail.com, test12345)</span>
-                  <em>
-(invalid username and password login)                  </em>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="testLoginInvalidCreds(jimy@gmail.com, panda)">
-                  </a> <!-- testLoginInvalidCreds(jimy@gmail.com, panda) -->
-                  <span class="method-name">testLoginInvalidCreds</span>
-                  <span class="parameters">(jimy@gmail.com, panda)</span>
-                  <em>
-(invalid username and password login)                  </em>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="testLoginInvalidCreds(yummy, yummy)">
-                  </a> <!-- testLoginInvalidCreds(yummy, yummy) -->
-                  <span class="method-name">testLoginInvalidCreds</span>
-                  <span class="parameters">(yummy, yummy)</span>
-                  <em>
-(invalid username and password login)                  </em>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="testLoginValidCreds">
-                  </a> <!-- testLoginValidCreds -->
-                  <span class="method-name">testLoginValidCreds</span>
-                  <em>
-(valid username and password login)                  </em>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
                   <a name="testPageTitleTest">
                   </a> <!-- testPageTitleTest -->
                   <span class="method-name">testPageTitleTest</span>
@@ -203,6 +144,11 @@
 &lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
 &lt;suite thread-count=&quot;1&quot; verbose=&quot;0&quot; name=&quot;Surefire suite&quot;&gt;
   &lt;test thread-count=&quot;1&quot; verbose=&quot;0&quot; name=&quot;Surefire test&quot;&gt;
+    &lt;method-selectors&gt;
+      &lt;method-selector&gt;
+        &lt;selector-class name=&quot;org.apache.maven.surefire.testng.utils.MethodSelector&quot; priority=&quot;10000&quot;/&gt;
+      &lt;/method-selector&gt;
+    &lt;/method-selectors&gt;
     &lt;classes&gt;
       &lt;class name=&quot;com.webdrivertest.tests.LoginPageTest&quot;/&gt;
     &lt;/classes&gt;
@@ -244,32 +190,16 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(5);
+data.addRows(1);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'testLoginValidCreds')
+data.setCell(0, 1, 'testPageTitleTest')
 data.setCell(0, 2, 'com.webdrivertest.tests.LoginPageTest')
-data.setCell(0, 3, 268);
-data.setCell(1, 0, 1)
-data.setCell(1, 1, 'testLoginInvalidCreds')
-data.setCell(1, 2, 'com.webdrivertest.tests.LoginPageTest')
-data.setCell(1, 3, 264);
-data.setCell(2, 0, 2)
-data.setCell(2, 1, 'testLoginInvalidCreds')
-data.setCell(2, 2, 'com.webdrivertest.tests.LoginPageTest')
-data.setCell(2, 3, 257);
-data.setCell(3, 0, 3)
-data.setCell(3, 1, 'testLoginInvalidCreds')
-data.setCell(3, 2, 'com.webdrivertest.tests.LoginPageTest')
-data.setCell(3, 3, 257);
-data.setCell(4, 0, 4)
-data.setCell(4, 1, 'testPageTitleTest')
-data.setCell(4, 2, 'com.webdrivertest.tests.LoginPageTest')
-data.setCell(4, 3, 40);
+data.setCell(0, 3, 53);
 window.suiteTableData['Surefire_suite']= { tableData: data, tableDiv: 'times-div-Surefire_suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 1 seconds</span>
+              <span class="suite-total-time">Total running time: 53 ms</span>
               <div id="times-div-Surefire_suite">
               </div> <!-- times-div-Surefire_suite -->
             </div> <!-- times-div -->
@@ -284,9 +214,18 @@ return data;
         </div> <!-- panel -->
         <div panel-name="ignored-methods-Surefire_suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">0 ignored methods</span>
+            <span class="header-content">2 ignored methods</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">com.webdrivertest.tests.LoginPageTest</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">testLoginValidCreds</span>
+                <br/>
+                <span class="ignored-method-name">testLoginInvalidCreds</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
         <div panel-name="chronological-Surefire_suite" class="panel">
@@ -302,59 +241,11 @@ return data;
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">testPageTitleTest</span>
-                <span class="method-start">1774 ms</span>
+                <span class="method-start">2328 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">1821 ms</span>
-              </div> <!-- configuration-method after -->
-              <div class="configuration-method before">
-                <span class="method-name">setUp</span>
-                <span class="method-start">1899 ms</span>
-              </div> <!-- configuration-method before -->
-              <div class="test-method">
-                <span class="method-name">testLoginValidCreds</span>
-                <span class="method-start">2928 ms</span>
-              </div> <!-- test-method -->
-              <div class="configuration-method after">
-                <span class="method-name">tearDown</span>
-                <span class="method-start">3197 ms</span>
-              </div> <!-- configuration-method after -->
-              <div class="configuration-method before">
-                <span class="method-name">setUp</span>
-                <span class="method-start">3796 ms</span>
-              </div> <!-- configuration-method before -->
-              <div class="test-method">
-                <span class="method-name">testLoginInvalidCreds(bill@gmail.com, test12345)</span>
-                <span class="method-start">4884 ms</span>
-              </div> <!-- test-method -->
-              <div class="configuration-method after">
-                <span class="method-name">tearDown</span>
-                <span class="method-start">5149 ms</span>
-              </div> <!-- configuration-method after -->
-              <div class="configuration-method before">
-                <span class="method-name">setUp</span>
-                <span class="method-start">5227 ms</span>
-              </div> <!-- configuration-method before -->
-              <div class="test-method">
-                <span class="method-name">testLoginInvalidCreds(jimy@gmail.com, panda)</span>
-                <span class="method-start">6213 ms</span>
-              </div> <!-- test-method -->
-              <div class="configuration-method after">
-                <span class="method-name">tearDown</span>
-                <span class="method-start">6470 ms</span>
-              </div> <!-- configuration-method after -->
-              <div class="configuration-method before">
-                <span class="method-name">setUp</span>
-                <span class="method-start">6545 ms</span>
-              </div> <!-- configuration-method before -->
-              <div class="test-method">
-                <span class="method-name">testLoginInvalidCreds(yummy, yummy)</span>
-                <span class="method-start">7465 ms</span>
-              </div> <!-- test-method -->
-              <div class="configuration-method after">
-                <span class="method-name">tearDown</span>
-                <span class="method-start">7722 ms</span>
+                <span class="method-start">2388 ms</span>
               </div> <!-- configuration-method after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

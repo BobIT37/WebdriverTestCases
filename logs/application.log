@@ -1139,3 +1139,9 @@
 2021-03-29 21:46:31,343 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
 2021-03-29 21:46:31,343 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
 2021-03-29 21:46:31,343 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/bobit/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2021-03-29 21:54:50,969  INFO [main] LoginPageTest:38 - starting ---------->>>> LoginPageTest
+2021-03-29 21:54:52,873  INFO [main] LoginPageTest:51 - starting -------->>> testPageTitleTest
+2021-03-29 21:54:52,883  INFO [main] LoginPageTest:55 - ending -------->>> testPageTitleTest
+2021-03-29 22:01:09,073  INFO [main] LoginPageTest:38 - starting ---------->>>> LoginPageTest
+2021-03-29 22:01:11,424  INFO [main] LoginPageTest:51 - starting -------->>> testPageTitleTest
+2021-03-29 22:01:11,438  INFO [main] LoginPageTest:55 - ending -------->>> testPageTitleTest
