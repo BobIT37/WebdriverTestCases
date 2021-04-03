@@ -14,6 +14,9 @@
 ## Steps
 
 - URL
+https://the-internet.herokuapp.com/
+
+or
 
 https://github.com/Dotdashcom/take-home-webdriver-test
 
